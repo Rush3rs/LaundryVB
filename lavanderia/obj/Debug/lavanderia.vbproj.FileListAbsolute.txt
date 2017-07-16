@@ -1,0 +1,370 @@
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+c:\users\jc\documents\visual studio 2015\Projects\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\elmej\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\elmej\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\elmej\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\elmej\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\elmej\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\elmej\Documents\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\jc\Pictures\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\jc\Pictures\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\elmej\Downloads\2\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\elmej\Pictures\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\stdole.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\FlashControlV71.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\FlashControlV71.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\bin\Debug\stdole.dll
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\elmej\Downloads\lavanderia (1)\lavanderia\lavanderia\lavanderia\obj\Debug\lavanderia.ventirapi.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\FlashControlV71.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\bin\Debug\stdole.dll
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.ventirapi.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+C:\Users\jc\Desktop\laundry\3213\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\FlashControlV71.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\bin\Debug\stdole.dll
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.ventirapi.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+C:\Users\jc\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.Design.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\bin\Debug\stdole.dll
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.ventirapi.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+C:\Users\rusher\Desktop\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\lavanderia.exe.config
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.exe
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.xml
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.pdb
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.vbprojResolveAssemblyReference.cache
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.cliente.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.impuestoed.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.Login.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.menuprin.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.inventario.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.newservi.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.kardex.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.newprenda.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.Form1.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.Form2.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.ventirapi.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.reportclien.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.Resources.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.ReportInventario.resources
+H:\lavanderia (2)\lavanderia\lavanderia\obj\Debug\lavanderia.vbproj.GenerateResource.Cache
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\lavanderia.exe
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\lavanderia.pdb
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\lavanderia.xml
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Shared.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\FlashControlV71.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\ShockwaveFlashObjects.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\lavanderia (2)\lavanderia\lavanderia\bin\Debug\stdole.dll

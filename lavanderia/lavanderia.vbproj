@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8F82FE6-D5C8-40DB-963F-6A3D22A14BEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>lavanderia.My.MyApplication</StartupObject>
+    <RootNamespace>lavanderia</RootNamespace>
+    <AssemblyName>lavanderia</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>lavanderia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>lavanderia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Capa grafica\cliente.Designer.vb">
+      <DependentUpon>cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\impuestoed.Designer.vb">
+      <DependentUpon>impuestoed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\impuestoed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\menupri.Designer.vb">
+      <DependentUpon>menupri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\menupri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\inventario.Designer.vb">
+      <DependentUpon>inventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\inventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\nuevoservicio.Designer.vb">
+      <DependentUpon>nuevoservicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\nuevoservicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\carde.Designer.vb">
+      <DependentUpon>carde.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\carde.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\newprenda.Designer.vb">
+      <DependentUpon>newprenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\newprenda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\ventirapi.Designer.vb">
+      <DependentUpon>ventirapi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\ventirapi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capa logica\Class1.vb" />
+    <Compile Include="capa logica\Class2.vb" />
+    <Compile Include="Capa grafica\FACTURA.Designer.vb">
+      <DependentUpon>FACTURA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\FACTURA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa grafica\editordefact.Designer.vb">
+      <DependentUpon>editordefact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa grafica\editordefact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\reportclien.Designer.vb">
+      <DependentUpon>reportclien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\reportclien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="reportes\ReportInventario.Designer.vb">
+      <DependentUpon>ReportInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\ReportInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Capa grafica\cliente.resx">
+      <DependentUpon>cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\impuestoed.resx">
+      <DependentUpon>impuestoed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\menupri.resx">
+      <DependentUpon>menupri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\inventario.resx">
+      <DependentUpon>inventario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\nuevoservicio.resx">
+      <DependentUpon>nuevoservicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\carde.resx">
+      <DependentUpon>carde.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\newprenda.resx">
+      <DependentUpon>newprenda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\FACTURA.resx">
+      <DependentUpon>FACTURA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\editordefact.resx">
+      <DependentUpon>editordefact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa grafica\ventirapi.resx">
+      <DependentUpon>ventirapi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\reportclien.resx">
+      <DependentUpon>reportclien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\ReportInventario.resx">
+      <DependentUpon>ReportInventario.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\117H.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\home %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\notebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\stethoscope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\folder %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\diary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
